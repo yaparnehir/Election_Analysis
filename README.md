@@ -14,19 +14,19 @@
 ## Summary 
 > The analysis of election show that: 
 -There were 369,711 votes cast in recent local congressional election.
->> The Canditates were:
+>> The Candidates were:
 * Charles Casper Stockham
 * Diana DeGette
 * Raymon Anthony Doane
->> The Canditate results were: 
+>> The Candidate results were: 
 * Charles Casper Stockham : 23.0% (85,213)
 * Diana DeGette : 73.8% (272,892)
 * Raymon Anthony Doane : 3.1% (11,606)
 >>Counties with votes were:
-*Jefferson : 10.5% (85,213)
-*Denver : 82.8% (306,055)
-*Arapahoe : 6.7% (24,801)
-> The winner of the Election was :  Diana DeGette with a 73.8% votes which is 272,892 in total. 
+* Jefferson : 10.5% (85,213)
+* Denver : 82.8% (306,055)
+* Arapahoe : 6.7% (24,801)
+- The winner of the Election was :  Diana DeGette with a 73.8% votes which is 272,892 in total. 
 ## Challenge Overview
 > In this challenge we have encountered a huge oppurtiny to understand the basics of list,directions,dictionaries. Also reading and analyzing the
 CSV(comma seperated values) files was one of the main goals. 
