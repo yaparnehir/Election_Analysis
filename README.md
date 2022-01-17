@@ -1,13 +1,13 @@
 # Election_Analysis
 ## Project Overview
 >We were given the task of analyzing the given election audit of a recent local congressional election. if we specify the task then;
->1- Total number of votes
->2- List of candidates 
->3- Total number of votes each candidate received
->4- Percantage of votes of each canditates
->5- List of counties
->6- county vote percentages
->7- Finding a winner and it's statistics. 
+* Total number of votes
+* List of candidates 
+* Total number of votes each candidate received
+* Percantage of votes of each canditates
+* List of counties
+* county vote percentages
+* Finding a winner and it's statistics. 
 ## Resources 
 > Data : election_results.csv 
 >Software : Python 3.9.2 , Visual Studio , GitHub Desktop
