@@ -13,19 +13,19 @@
 >Software : Python 3.9.2 , Visual Studio , GitHub Desktop
 ## Summary 
 > The analysis of election show that: 
->There were 369,711 votes cast in recent local congressional election.
-> The Canditates were:
->1- Charles Casper Stockham
->>2- Diana DeGette
->>>3- Raymon Anthony Doane
-> The Canditate results were: 
->>1- Charles Casper Stockham : 23.0% (85,213)
->>2- Diana DeGette : 73.8% (272,892)
->>3- Raymon Anthony Doane : 3.1% (11,606)
->Counties with votes were:
->>>1-Jefferson : 10.5% (85,213)
->>2-Denver : 82.8% (306,055)
->3-Arapahoe : 6.7% (24,801)
+-There were 369,711 votes cast in recent local congressional election.
+>> The Canditates were:
+* Charles Casper Stockham
+* Diana DeGette
+* Raymon Anthony Doane
+>> The Canditate results were: 
+* Charles Casper Stockham : 23.0% (85,213)
+* Diana DeGette : 73.8% (272,892)
+* Raymon Anthony Doane : 3.1% (11,606)
+>>Counties with votes were:
+*Jefferson : 10.5% (85,213)
+*Denver : 82.8% (306,055)
+*Arapahoe : 6.7% (24,801)
 > The winner of the Election was :  Diana DeGette with a 73.8% votes which is 272,892 in total. 
 ## Challenge Overview
 > In this challenge we have encountered a huge oppurtiny to understand the basics of list,directions,dictionaries. Also reading and analyzing the
